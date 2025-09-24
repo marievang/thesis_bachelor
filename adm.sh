@@ -1,5 +1,5 @@
 #!/bin/bash
-
+####
 #====================================================================================
 #Script for Simulating Data with msprime and Running Admixture analysis
 
